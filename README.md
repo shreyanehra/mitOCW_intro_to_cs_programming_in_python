@@ -25,7 +25,7 @@ The repository is organized by problem sets. Each problem set is in its own dire
 1. **Clone the Repository**: 
     ```sh
     git clone https://github.com/yourusername/mit-ocw-python-solutions.git
-    cd mit-ocw-python-solutions
+    cd mitOCW_intro_to_cs_programming_in_python
     ```
 
 2. **Navigate to a Problem Set Directory**: 
