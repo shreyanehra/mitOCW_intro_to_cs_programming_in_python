@@ -1,10 +1,7 @@
 # MIT OCW: Introduction to Computer Science and Programming in Python
 
-Welcome to my repository for solutions to the problem sets from the [MIT OpenCourseWare (OCW) course: Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+Welcome to my repository for solutions to the problem sets from the [MIT OpenCourseWare (OCW) course: Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/). I add the solutions as I complete them. It is a work in progress.
 
-## Course Description
-
-This course provides an introduction to computer science and programming using the Python language. The primary aim is to teach students how to think computationally and to write programs to solve useful problems. This is the first part of a two-course sequence.
 
 ## Repository Structure
 
@@ -43,5 +40,3 @@ The repository is organized by problem sets. Each problem set is in its own dire
 
 - I used Python 3.11 and Spyder
 
-
-Happy coding!
